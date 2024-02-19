@@ -34,7 +34,7 @@ const Header = () => {
 
           {userId && (
             <Link
-              href="/profile"
+              href="/dashboard/profile"
               className="text-gray-300 hover:text-white mr-4"
             >
               Profile
